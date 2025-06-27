@@ -1,0 +1,33 @@
+body {
+  font-family: monospace;
+  background: #d0f0c0;
+  color: #333;
+  text-align: center;
+}
+#game-container {
+  width: 320px;
+  height: 320px;
+  margin: 20px auto;
+  border: 3px solid #555;
+  background: #8bd67e;
+  position: relative;
+}
+.npc {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  image-rendering: pixelated;
+  cursor: pointer;
+}
+.dialogue-box {
+  position: absolute;
+  bottom: 36px;
+  left: 0;
+  width: 150px;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid #666;
+  font-size: 12px;
+  padding: 4px;
+  border-radius: 4px;
+  pointer-events: none;
+}
