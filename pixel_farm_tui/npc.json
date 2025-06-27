@@ -43,5 +43,65 @@
         "Hurry up, help me water!"
       ]
     }
+  },
+  {
+    "name": "Dark Farmer",
+    "sprite": "dark_farmer.png",
+    "personality": "ลึกลับ น่าเกรงขาม",
+    "dialogues": {
+      "th": [
+        "ข้าจะเก็บเกี่ยว...ด้วยพลัง",
+        "ทางนี้สิ...พลังรออยู่"
+      ],
+      "en": [
+        "I shall harvest... with power",
+        "This way... the force awaits"
+      ]
+    }
+  },
+  {
+    "name": "Solar Guard 1",
+    "sprite": "solar_guard1.png",
+    "personality": "เงียบ ขยัน",
+    "dialogues": {
+      "th": [
+        "ข้าตรวจสอบทุกต้นไม้แล้ว",
+        "ยังไม่มีผู้บุกรุก"
+      ],
+      "en": [
+        "All crops inspected.",
+        "No intruders detected."
+      ]
+    }
+  },
+  {
+    "name": "Solar Guard 2",
+    "sprite": "solar_guard2.png",
+    "personality": "นิ่ง พูดน้อย",
+    "dialogues": {
+      "th": [
+        "พร้อมปกป้องฟาร์มเสมอ",
+        "รายงานสถานการณ์เรียบร้อย"
+      ],
+      "en": [
+        "Always ready to defend.",
+        "All status reports complete."
+      ]
+    }
+  },
+  {
+    "name": "ปู่หย่ง",
+    "sprite": "master_yong.png",
+    "personality": "สงบนิ่ง ปล่อยวาง",
+    "dialogues": {
+      "th": [
+        "ใจนิ่ง... ปลาเห็น",
+        "ธรรมชาติ...ไม่ต้องเร่ง"
+      ],
+      "en": [
+        "Stillness... brings fish",
+        "Nature... has its time"
+      ]
+    }
   }
 ]
